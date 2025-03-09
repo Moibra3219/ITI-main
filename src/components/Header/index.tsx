@@ -48,7 +48,7 @@ const Header = ({ t }: HeaderProps) => {
   const { i18n } = useTranslation();
 
   const languages = [
-    { code: 'en', label: 'Switch to English', icon: 'united-states.svg' },
+    { code: 'en', label: 'Switch to English', icon: 'united-kingdom.png' },
     { code: 'ar', label: 'Switch to Arabic', icon: 'egypt.png' },
     { code: 'fr', label: 'Switch to French', icon: 'france.png' },
   ];
