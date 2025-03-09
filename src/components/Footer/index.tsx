@@ -45,7 +45,7 @@ const Footer = ({ t }: { t: TFunction }) => {
 
   // Language options along with SVG paths and accessibility details
   const languages = [
-    { code: 'en', label: 'Switch to English', icon: 'united-states.svg' },
+    { code: 'en', label: 'Switch to English', icon: 'united-kingdom.png' },
     { code: 'ar', label: 'Switch to Arabic', icon: 'egypt.png' },
     { code: 'fr', label: 'Switch to French', icon: 'france.png' },
   ];
