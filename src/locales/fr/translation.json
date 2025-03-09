@@ -1,0 +1,374 @@
+{
+  "About": "À propos",
+  "Policy": "Politique",
+  "Mission": "Mission",
+    "Workers": "Équipe de travail",
+  "Pricing": "Tarification",
+  "Product": "Produit",
+  "Tell us everything": "Dites-nous tout",
+  "Contact": "Contact",
+  "Do you have any question? Feel free to reach out.": "Avez-vous des questions ? N'hésitez pas à nous contacter.",
+  "Let's Chat": "Discutons",
+  "Application Security": "Sécurité des applications",
+  "Support Center": "Centre de support",
+  "Customer Support": "Support client",
+  "Address": "Adresse",
+  "Press": "Presse",
+  "Careers & Culture": "Carrières & Culture",
+  "Language": "Langue",
+  "Explore": "Explorer",
+  "Learn more": "En savoir plus",
+  "Get started": "Commencer",
+  "Submit": "Soumettre",
+  "Message": "Message",
+  "Your Message": "Votre message",
+  "Name": "Nom",
+  "Your Name": "Votre nom",
+  "Email": "Email",
+  "Your Email": "Votre email",
+  "intro": {
+    "title": "Bureau International d'Interprétation et de Traduction (ITIB)",
+    "text": "En soulignant le slogan 'Touchez votre mot pour le ressentir' comme devise, le Bureau International d'Interprétation et de Traduction (ITIB) et son personnel hautement qualifié de linguistes, traducteurs et interprètes avec une longue expérience en traduction et en conseil linguistique.",
+    "button": "En savoir plus"
+  },
+  "middleBlock": {
+    "title": "Touchez votre mot pour le ressentir!",
+    "text": "En soulignant le slogan 'Touchez votre mot pour le ressentir' comme devise, le Bureau International d'Interprétation et de Traduction (ITIB) et son personnel hautement qualifié de linguistes, traducteurs et interprètes avec une longue expérience en traduction et en conseil linguistique, ont le plaisir et l'honneur de fournir tous les types de traduction dans tous les sujets, non seulement de et vers l'arabe, mais de et vers la plupart des langues étrangères.",
+    "button": "Commencer"
+  },
+  "about": {
+    "title": "Traduction rapide, urgente et express",
+    "text": "est un service qui vous offre une traduction rapide, livrée le jour même ou en 24 heures. Même lorsque nous fournissons ce type de service de traduction, nous ne compromettons pas la qualité.",
+    "section": ["Section 1", "Section 2", "Section 3"]
+  },
+  "mission": {
+    "title": "Professionnalisme, Compétence et Précision",
+    "text": "Si vous recherchez le professionnalisme, la compétence, la précision, l'expérience, l'engagement, la crédibilité, la qualité, la confidentialité, la transparence, la rapidité et la distinction pour atteindre le niveau souhaité de services de traduction et de conseil linguistique, alors vous êtes au bon endroit."
+  },
+  "product": {
+    "title": "Service client 24/7!",
+    "text": "Et en plus de tarifs de traduction et de conseil linguistique abordables, nous offrons des services solides, complets et de premier ordre avec un service client 24/7, et un délai d'exécution efficace, le tout intégré dans nos tarifs de services."
+  },
+  "languages": {
+    "title": "Langues que nous traduisons",
+    "list": [
+      "Bulgare",
+      "Croate",
+      "Tchèque",
+      "Danois",
+      "Néerlandais",
+      "Anglais",
+      "Estonien",
+      "Finnois",
+      "Français",
+      "Allemand",
+      "Grec",
+      "Hongrois",
+      "Irlandais",
+      "Italien",
+      "Letton",
+      "Lituanien",
+      "Maltais",
+      "Polonais",
+      "Portugais",
+      "Roumain",
+      "Slovaque",
+      "Slovène",
+      "Espagnol",
+      "Suédois"
+    ]
+  },
+    "about": {
+      "title": "Bureau International d'Interprétation et de Traduction (BIIT)",
+      "intro": {
+        "description": "Le Bureau International d'Interprétation et de Traduction (BIIT) - dirigé par Mohamed Abdelkawey - a l'honneur et le plaisir de vous servir en proposant divers types de traductions et de consultations linguistiques, non seulement de et vers l'arabe, mais aussi de et vers la plupart des langues étrangères, le tout réalisé par une élite de consultants et d'experts en langues et en traduction, hautement qualifiés et professionnels."
+      },
+      "services": {
+        "title": "Portée des Traductions Certifiées",
+        "description": "Notre portée de traductions certifiées et authentifiées, requises par les ambassades, consulats, organismes égyptiens et étrangers et autorités gouvernementales, couvre un large éventail de documents et de certificats."
+      },
+      "documentTypes": {
+        "title": "Documents que nous traduisons",
+        "list": [
+          "Certificats de naissance",
+          "Certificats de décès",
+          "Carte d'identité personnelle / Numéro national",
+          "Passeport",
+          "Permis de conduire",
+          "Licence de véhicule",
+          "Certificats et relevés scolaires",
+          "Diplômes universitaires",
+          "Certificats de diplômation universitaire",
+          "Relevés de notes scolaires",
+          "Certificats de fin d'études secondaires",
+          "Contrats/Certificats de mariage",
+          "Contrats/Certificats de divorce",
+          "Casier judiciaire",
+          "Certificat de mouvements de voyage",
+          "Certificat de recrutement / Service militaire",
+          "Registre familial",
+          "Registre individuel",
+          "Certificat d'adoption / Tutelle d'enfant",
+          "Certificat de non-empêchement au mariage",
+          "Procurations légales officielles",
+          "Documents d'accréditation d'agent",
+          "Déclarations officielles",
+          "Déclarations fiscales",
+          "Relevés et certificats bancaires",
+          "Chèques bancaires",
+          "Lettres de garantie",
+          "Lettres de crédit",
+          "Bulletin de salaire",
+          "État de situation financière",
+          "Carte fiscale",
+          "Registre de commerce",
+          "États financiers des entreprises et des entreprises individuelles",
+          "Bilan",
+          "Contrats/Accords commerciaux",
+          "Contrat de constitution de société",
+          "Registres des actionnaires",
+          "Certificats syndicaux",
+          "Contrats de vente, d'achat et de location",
+          "Certificats d'héritage",
+          "Certificat de volonté et de testament",
+          "Certificats de possession agricole",
+          "Procès et jugements",
+          "Appels d'offres",
+          "Soumissions",
+          "Enchères",
+          "Factures",
+          "Reçus",
+          "Lettres de change",
+          "Reçus de dépôt",
+          "Billet à ordre",
+          "Reçu de paiement",
+          "Reçu de décaissement",
+          "Polices d'assurance",
+          "Certificat de preuve de nationalité",
+          "Certificat de migration",
+          "Certificat d'étranger ou de naissance à l'étranger",
+          "Certificats à qui de droit",
+          "Certificats d'identification",
+          "Certificats d'expérience",
+          "Certificats de quitus",
+          "Déclaration de quitus",
+          "Curriculum vitae",
+          "Lettre de couverture / Présentation",
+          "Lettre de référence",
+          "Lettre de recommandation",
+          "Gazette des entreprises",
+          "Carte de vaccination",
+          "Rapports, registres et certificats médicaux et de santé",
+          "Programmes scientifiques des universités, collèges, académies, instituts et écoles",
+          "Recherches, thèses et dissertations scientifiques",
+          "Apostille pour certificats scientifiques",
+          "Certificat de brevet",
+          "Certificat de droits de propriété intellectuelle",
+          "Certificat d'enregistrement de marque",
+          "Certificat ou déclaration de conformité",
+          "Certificat d'authenticité / Propriété documentée",
+          "Certificats de garantie",
+          "Certificat de baptême",
+          "Procès-verbaux de fiançailles",
+          "Rapports de police",
+          "Mémorandums juridiques",
+          "Procès-verbaux de réunions du conseil d'administration",
+          "Devis, extraits et bordereaux de quantités",
+          "Cartes et certificats d'import-export et d'agences commerciales",
+          "Connaissements",
+          "Tous documents et certificats officiels, juridiques et commerciaux"
+        ]
+      },
+      "contact": {
+        "title": "Contact et Assistance",
+        "description": "Contactez notre bureau ou venez nous rendre visite et parlez à l'un de nos employés pour convenir des services que nous proposons et connaître nos tarifs.",
+        "zamalekOffice": {
+          "title": "Succursale de Zamalek",
+          "address": "3, Rue Dr. Taha Hussein - Centre Yamama - Zamalek - Le Caire - Égypte",
+          "telFax": "Tél/Fax : (+202) 27369037",
+          "mobile": [
+            "(+2) 01020302444",
+            "(+2) 01094340142",
+            "(+2) 01558125060"
+          ]
+        },
+        "maadiOffice": {
+          "title": "Succursale de Maadi",
+          "address": "61, Route 206 - Degla - Maadi - Le Caire - Égypte",
+          "telFax": "Tél/Fax : (+202) 25211457",
+          "mobile": [
+            "(+2) 01067000881",
+            "(+2) 01113980003",
+            "(+2) 01283000573"
+          ]
+        }
+      }
+    },
+    "pricing": {
+    "title": "Tarification des Services de Traduction et de Conseil Linguistique",
+    "introduction": {
+      "paragraph1": "Des tarifs compétitifs authentiques sans compromettre la qualité. Nos services de traduction et de conseil linguistique sont proposés à des prix équitables et offrent un excellent rapport qualité-prix. Nous plaçons la qualité au cœur de tout ce que nous faisons, tout en comprenant que le coût est un enjeu majeur pour de nombreux clients. Nous travaillons donc avec diligence pour optimiser les budgets sans compromettre les normes professionnelles.",
+      "paragraph2": "En plus de nos prix abordables pour la traduction et le conseil linguistique, nous offrons des services solides, complets et de première qualité avec un service client disponible 24h/24 et 7j/7, ainsi qu'un délai d'exécution efficace, le tout inclus dans nos tarifs."
+    },
+    "quoteProcess": {
+      "title": "Processus de Devis",
+      "details": [
+        "Nous examinons tous les documents ou manuscrits que vous soumettez et préparons un devis ferme indiquant ce que nous livrerons et la date de livraison.",
+        "La majorité des devis sont calculés sur le nombre de mots du document selon la langue cible.",
+        "La mesure internationale par page est de 250 mots.",
+        "Les variables comme le travail avec des documents Word, images, photos, diagrammes, mise en page et langues multiples jouent tous un rôle dans l'analyse des coûts.",
+        "Pour les pièces d'identité et certificats, le devis est calculé sur le nombre de pages."
+      ]
+    },
+    "pricingPrinciples": {
+      "title": "Principes de Tarification",
+      "details": [
+        "Chaque langue est différente, donc le prix des traductions peut varier.",
+        "Nous maintenons des prix cohérents quelle que soit la langue de traduction.",
+        "La facture correspondra au montant indiqué dans le devis que vous avez approuvé.",
+        "Nous visons à fournir la meilleure qualité aux tarifs les plus compétitifs.",
+        "Nous demandons un paiement partiel initial (50% d'avance) et les 50% restants à la livraison."
+      ]
+    },
+    "additionalServices": {
+      "title": "Services Supplémentaires",
+      "details": [
+        "L'édition, la relecture, la révision et le conseil linguistique sont facturés à moitié prix de la traduction.",
+        "Les tarifs d'interprétation varient selon le type de service, le lieu et le secteur.",
+        "Les interprètes sont facturés sur une base de demi-journée ou journée complète.",
+        "Les missions d'interprétation continues (plus de 7 jours ouvrables) bénéficient d'une remise."
+      ]
+    },
+    "generalNotes": {
+      "title": "Notes Générales",
+      "details": [
+        "Les prix sont soumis à un montant minimum.",
+        "Les prix sont susceptibles de changer sans préavis.",
+        "Les langues rares sont tarifées par accord mutuel.",
+        "Les prix n'incluent pas la TVA.",
+        "Nous facturons un petit supplément pour les traductions urgentes/rapides."
+      ],
+      "bookingAndPayment": {
+        "title": "Méthode de Réservation et Paiement",
+        "paymentMethods": {
+          "title": "Modes de Paiement",
+          "methods": [
+            "En personne dans toutes les agences/locaux ITIB",
+            "Chèque bancaire",
+            "Dépôt bancaire direct",
+            "Virement bancaire",
+            "Mandat postal",
+            "Société de transfert d'argent (Western Union - Money Gram)",
+            "Orange Cash",
+            "Vodafone Cash"
+          ]
+        },
+        "bookingDetails": [
+          "La réservation et le paiement pour l'interprétation sur site et par téléphone seront facturés par temps réservé plus tout service supplémentaire effectif, arrondi à l'incrément supérieur.",
+          "Nous avons besoin d'au moins 3-5 jours francs pour la réservation d'interprète.",
+          "Pour les entités juridiques : Une facture sera envoyée après l'achèvement des services."
+        ],
+        "discounts": {
+          "title": "Remises",
+          "description": "Nous récompensons les clients fidèles qui signent des contrats avec nous par des remises spéciales sur tous les services linguistiques et de traduction. Les remises sont offertes selon le volume."
+        },
+        "operationHours": {
+          "title": "Heures d'Ouverture",
+          "details": [
+            "Ouvert toute l'année sauf les vendredis, jours fériés nationaux et religieux",
+            "Heures normales : 10h à 18h (heures supplémentaires disponibles)",
+            "Les heures s'appliquent au fuseau horaire égyptien"
+          ]
+        },
+        "additionalInformation": [
+          "Nous proposons des devis sans engagement pour la traduction, l'interprétation et les services linguistiques.",
+          "N'hésitez pas à nous contacter pour toute question ou renseignement."
+        ],
+        "contact": {
+          "description": "Nous sommes facilement joignables par téléphone, fax, email, et les visites personnelles sont les bienvenues."
+        }
+      }
+    }
+  },
+  "workers": {
+    "title": "Nos Travailleurs et Services",
+    "introduction": {
+      "paragraph1": "Nous cherchons toujours à nous différencier et à faire la différence, c'est pourquoi le Bureau International d'Interprétation et de Traduction (ITIB) dispose d'un réseau de plus de 1000 linguistes et traducteurs dans le monde entier, disponibles pour aider à tout moment. ITIB combine et améliore les connaissances et l'expérience de tous ses consultants et spécialistes afin de vous offrir un portefeuille de services complet.",
+      "paragraph2": "Si vous recherchez le professionnalisme, la compétence, la précision, l'expérience, l'engagement, la crédibilité, la qualité, la confidentialité, la transparence, la rapidité et la distinction pour atteindre le niveau souhaité de services de traduction et de conseil linguistique, alors vous êtes au bon endroit."
+    },
+    "interpretationServices": {
+      "title": "Services d'Interprétation",
+      "description": "Nous fournissons une interprétation simultanée, consécutive et à vue de haute qualité en utilisant un réseau d'interprètes hautement qualifiés pour divers événements, y compris :",
+      "eventTypes": [
+        "Conférences",
+        "Conventions",
+        "Réunions",
+        "Séminaires",
+        "Expositions",
+        "Symposiums",
+        "Sessions",
+        "Forums",
+        "Procès",
+        "Audiences judiciaires",
+        "Visites",
+        "Interviews",
+        "Rendez-vous",
+        "Émissions télévisées",
+        "Studios et lieux de tournage",
+        "Appels téléphoniques",
+        "Enregistrements audio et vidéo",
+        "Conférences",
+        "Téléconférences",
+        "Enquêtes",
+        "Visites",
+        "Services sociaux",
+        "Affaires privées, professionnelles et officielles",
+        "Événements sur site"
+      ]
+    },
+    "qualityCommitment": {
+      "title": "Notre Engagement Qualité",
+      "points": [
+        "La satisfaction des clients a toujours été au cœur de notre philosophie",
+        "Nous avons gagné la confiance des clients en Égypte et dans le monde entier",
+        "Linguistes, traducteurs et interprètes hautement qualifiés et de confiance",
+        "N'emploie que des traducteurs et interprètes professionnels",
+        "Utilise la technologie la plus récente",
+        "Fournit des traductions sans erreur",
+        "Crée et gère des glossaires et des guides de style spécifiques aux projets",
+        "Met l'accent sur l'utilisation précise de la langue et la terminologie de haute qualité"
+      ]
+    },
+    "translationCharacteristics": {
+      "title": "Caractéristiques de la Traduction",
+      "points": [
+        "Traductions bien écrites qui ne ressemblent pas à des traductions",
+        "Livrées dans le format requis",
+        "Livrées à temps",
+        "Service rapide/urgent disponible",
+        "Documents jusqu'à 3 pages peuvent être prêts en 24 heures ou moins",
+        "Maintient la qualité même avec un délai d'exécution rapide"
+      ]
+    },
+    "confidentiality": {
+      "title": "Confidentialité",
+      "points": [
+        "La confidentialité est primordiale",
+        "Documents traités avec une grande discrétion",
+        "Politique de confidentialité stricte",
+        "Prêt à signer des accords de non-divulgation",
+        "Engagé au secret professionnel",
+        "Toutes les données sont traitées en toute confiance",
+        "Les informations ne seront pas divulguées à des tiers"
+      ]
+    },
+    "statistics": {
+      "title": "Nos Réalisations",
+      "points": [
+        "Réseau de plus de 1000 linguistes et traducteurs dans le monde entier",
+        "Traduction de plus de 500 000 pages dans 100 combinaisons linguistiques chaque année",
+        "A complété avec succès une large gamme de missions d'interprétation"
+      ]
+    }
+  }
+}

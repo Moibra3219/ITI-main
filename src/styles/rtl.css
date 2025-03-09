@@ -1,0 +1,56 @@
+/* src/styles/rtl.css */
+/* RTL Styles */
+[dir="rtl"] {
+    /* Typography */
+    font-family: 'Cairo', sans-serif;
+    text-align: right;
+  
+    /* Layout */
+    direction: rtl;
+  
+    /* Forms */
+    input,
+    textarea {
+      text-align: right;
+    }
+  
+    /* Margins and Paddings */
+    .ml-auto {
+      margin-left: 0 !important;
+      margin-right: auto !important;
+    }
+  
+    .mr-auto {
+      margin-right: 0 !important;
+      margin-left: auto !important;
+    }
+  
+    /* Flexbox */
+    .flex-row {
+      flex-direction: row-reverse;
+    }
+  
+    /* Icons and Images */
+    .icon-left {
+      transform: scaleX(-1);
+    }
+  }
+  
+  /* Language Switcher Styles */
+  .language-switcher {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .language-switcher button {
+    padding: 8px 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .language-switcher button.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+  }

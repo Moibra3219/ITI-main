@@ -1,0 +1,379 @@
+{
+  "About": "About",
+  "Policy": "Policy",
+  "Mission": "Mission",
+  "Product": "Product",
+  "Tell us everything": "Tell us everything",
+  "Contact": "Contact",
+  "Do you have any question? Feel free to reach out.": "Do you have any question? Feel free to reach out.",
+  "Let's Chat": "Let's Chat",
+  "Application Security": "Application Security",
+  "Support Center": "Support Center",
+  "Customer Support": "Customer Support.",
+  "Address": "Address",
+  "Press": "Press",
+  "Careers & Culture": "Careers & Culture",
+  "Language": "Language",
+  "Explore": "Explore",
+  "Learn more": "Learn more",
+  "Get started": "Get started",
+  "Submit": "Submit",
+  "Message" : "Message",
+  "Your Message": "Your Message",
+  "Name" : "Name",
+  "Your Name": "Your Name",
+  "Email" : "Email",
+  "Your Email": "Your Email",
+  
+  "intro": {
+    "title": "Interpretation & Translation International Bureau (ITIB)",
+    "text": "Pointing out the slogan 'Touch your Word To Feel It' as a motto, Interpretation & Translation International Bureau (ITIB) and its selected highly qualified staff of Linguists, Translators and Interpreters with long experience in translation and language consulting.",
+    "button": "Learn More"
+  },
+  "middleBlock": {
+    "title": "Touch your Word To Feel It!e",
+    "text": "Pointing out the slogan 'Touch your Word To Feel It' as a motto, Interpretation & Translation International Bureau (ITIB) and its selected highly qualified staff of Linguists, Translators and Interpreters with long experience in translation and language consulting, have the pleasure and honor to provide all translation types in all subjects, not only from and to Arabic, but from and to most of foreign languages.",
+    "button": "Get Started"
+  },
+  "abou": {
+    "title": "Fast, Quick, Rush & Urgent Translation",
+    "text": "is a service that provides you with a quick turnaround translation, delivered the same day or in 24 hours, Even when we provide this type of translation service we do not compromise quality.",
+    "section": ["Section 1", "Section 2", "Section 3"]
+  },
+  "mission": {
+    "title": " Professionalism, Competency & Accuracy",
+    "text": "If you are looking for professionalism, competency, accuracy, experience, commitment, credibility, quality, confidentiality, transparency, speed and distinction to reach the desired level of translation and language consulting services then you have come to the best and right place."
+  },
+  "product": {
+    "title": "24/7 customer care!",
+    "text": "And as well as affordable translation and language consulting prices, we offer strong, comprehensive and top notch services with 24/7 customer care, and efficient turnaround, all built into our services pricing."
+  },
+  "languages": {
+    "title": "Languages We Translate",
+    "list": [
+      "Bulgarian",
+      "Croatian",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "English",
+      "Estonian",
+      "Finnish",
+      "French",
+      "German",
+      "Greek",
+      "Hungarian",
+      "Irish",
+      "Italian",
+      "Latvian",
+      "Lithuanian",
+      "Maltese",
+      "Polish",
+      "Portuguese",
+      "Romanian",
+      "Slovak",
+      "Slovenian",
+      "Spanish",
+      "Swedish"
+    ]
+  },
+  
+  "about": {
+    "title": "Interpretation & Translation International Bureau (ITIB)",
+    "intro": {
+      "description": "The International Bureau for Interpretation and Translation (ITIB) - led by Mohamed Abdelkawey - is honored and pleased to serve you by providing various types of translations and linguistic consultations. Not only do we translate to and from Arabic, but also to and from most foreign languages, all performed by a select group of skilled and professional language and translation consultants and experts."
+    },
+    "services": {
+      "title": "Our Comprehensive Translation Services",
+      "description": "Our accredited and certified translation services cover a wide range of documents required by embassies, consulates, Egyptian and foreign bodies, and governmental authorities."
+    },
+    "documentTypes": {
+      "title": "Documents We Translate",
+      "list": [
+        "Birth Certificates",
+        "Death Certificates",
+        "Personal ID / National ID",
+        "Passport",
+        "Driving License",
+        "Vehicle License",
+        "Educational Certificates and Statements",
+        "University Degree Certificates",
+        "University Graduation Certificates",
+        "School Grade Certificates",
+        "School Graduation Certificates",
+        "Marriage Contracts/Certificates",
+        "Divorce Contracts/Certificates",
+        "Criminal Record / Police Clearance",
+        "Travel Movement Certificates",
+        "Military Recruitment / Service Certificates",
+        "Family Registration",
+        "Individual Registration",
+        "Child Adoption / Sponsorship Certificates",
+        "Certificate of No Impediment to Marry",
+        "Official Legal Powers of Attorney",
+        "Agent Credentials",
+        "Official Declarations",
+        "Tax Declarations",
+        "Bank Statements and Certificates",
+        "Bank Checks",
+        "Guarantee Letters",
+        "Credit Letters",
+        "Salary Slip",
+        "Financial Position Statement",
+        "Tax Card",
+        "Commercial Register",
+        "Financial Statements for Companies and Individuals",
+        "Balance Sheet",
+        "Commercial Contracts/Agreements",
+        "Company Incorporation Contract",
+        "Shareholders' Registers",
+        "Syndicate Certificates",
+        "Sale, Purchase, and Lease Contracts",
+        "Inheritance Certificates",
+        "Will and Testament Certificates",
+        "Agricultural Possession Certificates",
+        "Lawsuits and Judgments",
+        "Tenders",
+        "Bids",
+        "Auctions",
+        "Invoices",
+        "Receipts",
+        "Bills of Exchange",
+        "Trust Receipts",
+        "Promissory Notes",
+        "Receipt Vouchers",
+        "Payment Vouchers",
+        "Insurance Policies",
+        "Nationality Proof Certificates",
+        "Migration Certificates",
+        "Foreign or Overseas Birth Certificates",
+        "To Whom It May Concern Certificates",
+        "Identification Certificates",
+        "Experience Certificates",
+        "Clearance Certificates",
+        "Settlement and Clearance Declarations",
+        "Curriculum Vitae",
+        "Cover / Introduction Letters",
+        "Reference Letters",
+        "Recommendation Letters",
+        "Company Gazettes",
+        "Vaccination Cards",
+        "Medical Reports, Records, and Health Certificates",
+        "Scientific Curricula for Universities, Colleges, Academies, Institutes, and Schools",
+        "Research, Theses, and Scientific Dissertations",
+        "Certificate Apostille",
+        "Patent Certificates",
+        "Intellectual Property Rights Certificates",
+        "Trademark Registration Certificates",
+        "Conformity Declarations",
+        "Authenticity / Ownership Certificates",
+        "Warranty Certificates",
+        "Baptismal Certificates",
+        "Betrothal Minutes",
+        "Police Reports",
+        "Legal Memorandums",
+        "Board of Directors Meeting Minutes",
+        "Estimates, Extracts, and Quantity Schedules",
+        "Import, Export, and Commercial Agency Cards/Certificates",
+        "Bills of Lading",
+        "All Official, Legal, and Commercial Documents and Certificates"
+      ]
+    },
+    "contact": {
+      "title": "Contact and Assistance",
+      "description": "Contact our office or visit us and speak with one of our staff members to discuss the services we provide and learn about our prices.",
+      "zamalekOffice": {
+        "title": "Zamalek Branch",
+        "address": "3 Dr. Taha Hussein St. - Yamama Center - Zamalek - Cairo - Egypt",
+        "telFax": "Tel/Fax: (+202) 27369037",
+        "mobile": [
+          "(+2) 01020302444",
+          "(+2) 01094340142",
+          "(+2) 01558125060"
+        ]
+      },
+      "maadiOffice": {
+        "title": "Maadi Branch",
+        "address": "61 Road 206 - Degla - Maadi - Cairo - Egypt",
+        "telFax": "Tel/Fax: (+202) 25211457",
+        "mobile": [
+          "(+2) 01067000881",
+          "(+2) 01113980003",
+          "(+2) 01283000573"
+        ]
+      }
+    }
+  },
+    "pricing": {
+      "title": "Translation and Language Consulting Pricing",
+      "introduction": {
+        "paragraph1": "Genuine competitive price rates without compromising on the quality. Our translation and language consulting are fairly priced and provide good value for money, we put quality at the heart of everything we do, but we also understand that the cost is a key issue for many clients, so we work diligently in order to ensure that budgets are maximized without compromising professional standards.",
+        "paragraph2": "And as well as affordable translation and language consulting prices, we offer strong, comprehensive and top notch services with 24/7 customer care, and efficient turnaround, all built into our services pricing."
+      },
+      "quoteProcess": {
+        "title": "Quote Process",
+        "details": [
+          "We review all documents or manuscripts you submit and prepare a binding firm quote stating what we will deliver and the date by which you will receive it.",
+          "The majority of quotes are calculated on word count of the document according to the target language.",
+          "The international measure per one page is 250 words.",
+          "Variables like working with word documents, pictures, photos, diagrams, layout and multiple languages all play a role in cost analysis.",
+          "For IDs and certificates, the quote is calculated on the amount of pages."
+        ]
+      },
+      "pricingPrinciples": {
+        "title": "Pricing Principles",
+        "details": [
+          "Not every language is the same, so the price of translations may vary.",
+          "We keep prices consistent whatever the language for translation.",
+          "The invoice will be for the amount stated in the quote that you approved.",
+          "We aim to provide the highest quality and most competitive rates.",
+          "We require partial payment upfront (50% in advance) and the remaining 50% upon delivery."
+        ]
+      },
+      "additionalServices": {
+        "title": "Additional Services",
+        "details": [
+          "Editing, proofreading, revising, and language consulting are half the price of translation.",
+          "Interpretation rates vary based on service type, location, and industry.",
+          "Interpreters are charged on a half or full-day basis.",
+          "Ongoing interpretation assignments (longer than 7 working days) attract a discount."
+        ]
+      },
+      "generalNotes": {
+        "title": "General Notes",
+        "details": [
+          "Prices are subject to a minimum charge.",
+          "Prices are subject to change without notice.",
+          "Rare languages are priced by mutual agreement.",
+          "Prices do not include VAT.",
+          "We charge a small surcharge for urgent/fast translations."
+        ]
+       , "bookingAndPayment": {
+          "title": "Method of Booking & Payment",
+          "paymentMethods": {
+            "title": "Payment Methods",
+            "methods": [
+              "In person at any ITIB branches/locations",
+              "Banking Cheque",
+              "Direct Bank Deposit",
+              "Bank Transfer",
+              "Postal Remittance",
+              "Wire transfer company (Western Union - Money Gram)",
+              "Orange Cash",
+              "Vodafone Cash"
+            ]
+          },
+          "bookingDetails": [
+            "Booking and payment for on-site and telephone interpretation will be charged per booked time plus any actual overtime services rendered, rounded up to the next increment.",
+            "We need at least 3-5 clear days for interpreter booking.",
+            "For legal entities: An invoice will be sent after completion of services."
+          ],
+          "discounts": {
+            "title": "Discounts",
+            "description": "We reward loyal customers who sign contracts with us with special discounts on all language and translation services. Discounts are offered based on volume."
+          },
+          "operationHours": {
+            "title": "Hours of Operation",
+            "details": [
+              "Open throughout the year except Fridays, national and religious holidays",
+              "Normal hours: 10am to 6pm (extra hours available)",
+              "Hours apply to Egypt time zone"
+            ]
+          },
+          "additionalInformation": [
+            "We offer no-obligation price quotes for translation, interpretation, and language services.",
+            "Don't hesitate to contact us with any questions or inquiries."
+          ],
+          "contact": {
+            "description": "We are easily contacted via phone, fax, email, and personal visits are welcome."
+          }
+        }
+      }
+    },
+      
+        "workers": {
+          "title": "Our Workers and Services",
+          "introduction": {
+            "paragraph1": "We are always seeking to differentiate and to make a distinction, therefore Interpretation & Translation International Bureau (ITIB) with a network of over 1000 linguists and translators worldwide available to help at any time, ITIB combines and enhances the knowledge and experience of all its consultants and specialists in order to be able to offer you a complete service portfolio.",
+            "paragraph2": "If you are looking for professionalism, competency, accuracy, experience, commitment, credibility, quality, confidentiality, transparency, speed and distinction to reach the desired level of translation and language consulting services then you have come to the best and right place."
+          },
+          "interpretationServices": {
+            "title": "Interpretation Services",
+            "description": "We provide high quality simultaneous, consecutive and sight Interpretation using a network of highly trained interpreters for various events including:",
+            "eventTypes": [
+              "Conferences",
+              "Conventions",
+              "Meetings",
+              "Seminars",
+              "Exhibitions",
+              "Symposiums",
+              "Sessions",
+              "Forums",
+              "Trials",
+              "Court Hearings",
+              "Tours",
+              "Interviews",
+              "Appointments",
+              "Talk Shows",
+              "Shooting Studios and Locations",
+              "Phone Calls",
+              "Audio and Video Recordings",
+              "Lectures",
+              "Teleconferences",
+              "Investigations",
+              "Visits",
+              "Social Services",
+              "Private, Employee and Official Matters",
+              "On-site Events"
+            ]
+          },
+          "qualityCommitment": {
+            "title": "Our Quality Commitment",
+            "points": [
+              "Client satisfaction has always been central to our philosophy",
+              "We have gained the trust of clients in Egypt and worldwide",
+              "Highly qualified and trusted linguists, translators, and interpreters",
+              "Employs only professional translators and interpreters",
+              "Uses the latest technology",
+              "Provides error-free translations",
+              "Creates and manages project-specific glossaries and style guides",
+              "Emphasizes accurate language use and high-quality terminology"
+            ]
+          },
+          "translationCharacteristics": {
+            "title": "Translation Characteristics",
+            "points": [
+              "Well-written translations that do not read like translations",
+              "Delivered in the required format",
+              "Delivered on time",
+              "Fast/urgent service available",
+              "Documents up to 3 pages can be ready in 24 hours or less",
+              "Maintains quality even with quick turnaround"
+            ]
+          },
+          "confidentiality": {
+            "title": "Confidentiality",
+            "points": [
+              "Confidentiality is paramount",
+              "Documents handled with great discretion",
+              "Strict confidentiality policy",
+              "Willing to sign non-disclosure agreements",
+              "Committed to professional secrecy",
+              "All data treated in absolute confidence",
+              "Information will not be disclosed to third parties"
+            ]
+          },
+          "statistics": {
+            "title": "Our Achievements",
+            "points": [
+              "Network of over 1000 linguists and translators worldwide",
+              "Translate over 500,000 pages in 100 language combinations annually",
+              "Successfully completed a wide range of interpretation assignments"
+            ]
+          }
+        }
+      
+      }
+
+
+ 
