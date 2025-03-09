@@ -183,7 +183,7 @@
         "title": "Contact et Assistance",
         "description": "Contactez notre bureau ou venez nous rendre visite et parlez à l'un de nos employés pour convenir des services que nous proposons et connaître nos tarifs.",
         "zamalekOffice": {
-          "title": "Succursale de Zamalek",
+          "title": "Zamalek",
           "address": "3, Rue Dr. Taha Hussein - Centre Yamama - Zamalek - Le Caire - Égypte",
           "telFax": "Tél/Fax : (+202) 27369037",
           "mobile": [
@@ -193,7 +193,7 @@
           ]
         },
         "maadiOffice": {
-          "title": "Succursale de Maadi",
+          "title": "Maadi",
           "address": "61, Route 206 - Degla - Maadi - Le Caire - Égypte",
           "telFax": "Tél/Fax : (+202) 25211457",
           "mobile": [
