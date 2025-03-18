@@ -3,50 +3,40 @@
   "Policy": "Policy",
   "Mission": "Mission",
   "Product": "Product",
-  "Tell us everything": "Tell us everything",
   "Contact": "Contact",
-  "Do you have any question? Feel free to reach out.": "Do you have any question? Feel free to reach out.",
-  "Let's Chat": "Let's Chat",
-  "Application Security": "Application Security",
-  "Support Center": "Support Center",
-  "Customer Support": "Customer Support.",
-  "Address": "Address",
-  "Press": "Press",
-  "Careers & Culture": "Careers & Culture",
   "Language": "Language",
   "Explore": "Explore",
   "Learn more": "Learn more",
   "Get started": "Get started",
   "Submit": "Submit",
-  "Message" : "Message",
+  "Message": "Message",
   "Your Message": "Your Message",
-  "Name" : "Name",
+  "Name": "Name",
   "Your Name": "Your Name",
-  "Email" : "Email",
+  "Email": "Email",
   "Your Email": "Your Email",
-  
   "intro": {
     "title": "Interpretation & Translation International Bureau (ITIB)",
-    "text": "Pointing out the slogan 'Touch your Word To Feel It' as a motto, Interpretation & Translation International Bureau (ITIB) and its selected highly qualified staff of Linguists, Translators and Interpreters with long experience in translation and language consulting.",
+    "text": "Vision: Providing a full range of first-class language and translation services to be a global leader and innovative translation and interpretation agency in the whole world.",
     "button": "Learn More"
   },
   "middleBlock": {
-    "title": "Touch your Word To Feel It!e",
-    "text": "Pointing out the slogan 'Touch your Word To Feel It' as a motto, Interpretation & Translation International Bureau (ITIB) and its selected highly qualified staff of Linguists, Translators and Interpreters with long experience in translation and language consulting, have the pleasure and honor to provide all translation types in all subjects, not only from and to Arabic, but from and to most of foreign languages.",
+    "title": "Mission Statement",
+    "text": "ITIB is dedicated to handling clients' needs with the utmost professionalism, honesty, and integrity in translation and language consulting. ITIB aims to offer clients a better cost-benefit relationship every time and better personal attention in order to establish a more productive alliance and long-term relationship with its clientele.",
     "button": "Get Started"
   },
-  "abou": {
-    "title": "Fast, Quick, Rush & Urgent Translation",
-    "text": "is a service that provides you with a quick turnaround translation, delivered the same day or in 24 hours, Even when we provide this type of translation service we do not compromise quality.",
-    "section": ["Section 1", "Section 2", "Section 3"]
+  "about": {
+    "title": "Our Commitment",
+    "text": "ITIB provides all types of translation with excellent high-quality services at competitive prices to bridge the communication gap between civilizations, culture, and overcome language barriers.",
+    "section": ["Vision", "Mission", "Values"]
   },
   "mission": {
-    "title": " Professionalism, Competency & Accuracy",
-    "text": "If you are looking for professionalism, competency, accuracy, experience, commitment, credibility, quality, confidentiality, transparency, speed and distinction to reach the desired level of translation and language consulting services then you have come to the best and right place."
+    "title": "Our Values",
+    "text": "Values are Paramount at ITIB. We have a world-wide reputation for reliability, honesty, efficiency, excellence, commitment, accuracy, quality, obligation, professionalism, and confidentiality."
   },
   "product": {
-    "title": "24/7 customer care!",
-    "text": "And as well as affordable translation and language consulting prices, we offer strong, comprehensive and top notch services with 24/7 customer care, and efficient turnaround, all built into our services pricing."
+    "title": "24/7 Customer Care",
+    "text": "In addition to affordable translation and language consulting prices, we offer strong, comprehensive, and top-notch services with 24/7 customer care and efficient turnaround, all built into our services pricing."
   },
   "languages": {
     "title": "Languages We Translate",
@@ -77,8 +67,7 @@
       "Swedish"
     ]
   },
-  
-  "about": {
+  "aboutDetails": {
     "title": "Interpretation & Translation International Bureau (ITIB)",
     "intro": {
       "description": "The International Bureau for Interpretation and Translation (ITIB) - led by Mohamed Abdelkawey - is honored and pleased to serve you by providing various types of translations and linguistic consultations. Not only do we translate to and from Arabic, but also to and from most foreign languages, all performed by a select group of skilled and professional language and translation consultants and experts."
@@ -204,176 +193,381 @@
       }
     }
   },
-    "pricing": {
-      "title": "Translation and Language Consulting Pricing",
-      "introduction": {
-        "paragraph1": "Genuine competitive price rates without compromising on the quality. Our translation and language consulting are fairly priced and provide good value for money, we put quality at the heart of everything we do, but we also understand that the cost is a key issue for many clients, so we work diligently in order to ensure that budgets are maximized without compromising professional standards.",
-        "paragraph2": "And as well as affordable translation and language consulting prices, we offer strong, comprehensive and top notch services with 24/7 customer care, and efficient turnaround, all built into our services pricing."
-      },
-      "quoteProcess": {
-        "title": "Quote Process",
-        "details": [
-          "We review all documents or manuscripts you submit and prepare a binding firm quote stating what we will deliver and the date by which you will receive it.",
-          "The majority of quotes are calculated on word count of the document according to the target language.",
-          "The international measure per one page is 250 words.",
-          "Variables like working with word documents, pictures, photos, diagrams, layout and multiple languages all play a role in cost analysis.",
-          "For IDs and certificates, the quote is calculated on the amount of pages."
-        ]
-      },
-      "pricingPrinciples": {
-        "title": "Pricing Principles",
-        "details": [
-          "Not every language is the same, so the price of translations may vary.",
-          "We keep prices consistent whatever the language for translation.",
-          "The invoice will be for the amount stated in the quote that you approved.",
-          "We aim to provide the highest quality and most competitive rates.",
-          "We require partial payment upfront (50% in advance) and the remaining 50% upon delivery."
-        ]
-      },
-      "additionalServices": {
-        "title": "Additional Services",
-        "details": [
-          "Editing, proofreading, revising, and language consulting are half the price of translation.",
-          "Interpretation rates vary based on service type, location, and industry.",
-          "Interpreters are charged on a half or full-day basis.",
-          "Ongoing interpretation assignments (longer than 7 working days) attract a discount."
-        ]
-      },
-      "generalNotes": {
-        "title": "General Notes",
-        "details": [
-          "Prices are subject to a minimum charge.",
-          "Prices are subject to change without notice.",
-          "Rare languages are priced by mutual agreement.",
-          "Prices do not include VAT.",
-          "We charge a small surcharge for urgent/fast translations."
-        ]
-       , "bookingAndPayment": {
-          "title": "Method of Booking & Payment",
-          "paymentMethods": {
-            "title": "Payment Methods",
-            "methods": [
-              "In person at any ITIB branches/locations",
-              "Banking Cheque",
-              "Direct Bank Deposit",
-              "Bank Transfer",
-              "Postal Remittance",
-              "Wire transfer company (Western Union - Money Gram)",
-              "Orange Cash",
-              "Vodafone Cash"
-            ]
-          },
-          "bookingDetails": [
-            "Booking and payment for on-site and telephone interpretation will be charged per booked time plus any actual overtime services rendered, rounded up to the next increment.",
-            "We need at least 3-5 clear days for interpreter booking.",
-            "For legal entities: An invoice will be sent after completion of services."
-          ],
-          "discounts": {
-            "title": "Discounts",
-            "description": "We reward loyal customers who sign contracts with us with special discounts on all language and translation services. Discounts are offered based on volume."
-          },
-          "operationHours": {
-            "title": "Hours of Operation",
-            "details": [
-              "Open throughout the year except Fridays, national and religious holidays",
-              "Normal hours: 10am to 6pm (extra hours available)",
-              "Hours apply to Egypt time zone"
-            ]
-          },
-          "additionalInformation": [
-            "We offer no-obligation price quotes for translation, interpretation, and language services.",
-            "Don't hesitate to contact us with any questions or inquiries."
-          ],
-          "contact": {
-            "description": "We are easily contacted via phone, fax, email, and personal visits are welcome."
-          }
-        }
-      }
+  "pricing": {
+    "title": "Translation and Language Consulting Pricing",
+    "introduction": {
+      "paragraph1": "Genuine competitive price rates without compromising on the quality. Our translation and language consulting are fairly priced and provide good value for money, we put quality at the heart of everything we do, but we also understand that the cost is a key issue for many clients, so we work diligently in order to ensure that budgets are maximized without compromising professional standards.",
+      "paragraph2": "And as well as affordable translation and language consulting prices, we offer strong, comprehensive and top notch services with 24/7 customer care, and efficient turnaround, all built into our services pricing."
     },
-      
-        "workers": {
-          "title": "Our Workers and Services",
-          "introduction": {
-            "paragraph1": "We are always seeking to differentiate and to make a distinction, therefore Interpretation & Translation International Bureau (ITIB) with a network of over 1000 linguists and translators worldwide available to help at any time, ITIB combines and enhances the knowledge and experience of all its consultants and specialists in order to be able to offer you a complete service portfolio.",
-            "paragraph2": "If you are looking for professionalism, competency, accuracy, experience, commitment, credibility, quality, confidentiality, transparency, speed and distinction to reach the desired level of translation and language consulting services then you have come to the best and right place."
-          },
-          "interpretationServices": {
-            "title": "Interpretation Services",
-            "description": "We provide high quality simultaneous, consecutive and sight Interpretation using a network of highly trained interpreters for various events including:",
-            "eventTypes": [
-              "Conferences",
-              "Conventions",
-              "Meetings",
-              "Seminars",
-              "Exhibitions",
-              "Symposiums",
-              "Sessions",
-              "Forums",
-              "Trials",
-              "Court Hearings",
-              "Tours",
-              "Interviews",
-              "Appointments",
-              "Talk Shows",
-              "Shooting Studios and Locations",
-              "Phone Calls",
-              "Audio and Video Recordings",
-              "Lectures",
-              "Teleconferences",
-              "Investigations",
-              "Visits",
-              "Social Services",
-              "Private, Employee and Official Matters",
-              "On-site Events"
-            ]
-          },
-          "qualityCommitment": {
-            "title": "Our Quality Commitment",
-            "points": [
-              "Client satisfaction has always been central to our philosophy",
-              "We have gained the trust of clients in Egypt and worldwide",
-              "Highly qualified and trusted linguists, translators, and interpreters",
-              "Employs only professional translators and interpreters",
-              "Uses the latest technology",
-              "Provides error-free translations",
-              "Creates and manages project-specific glossaries and style guides",
-              "Emphasizes accurate language use and high-quality terminology"
-            ]
-          },
-          "translationCharacteristics": {
-            "title": "Translation Characteristics",
-            "points": [
-              "Well-written translations that do not read like translations",
-              "Delivered in the required format",
-              "Delivered on time",
-              "Fast/urgent service available",
-              "Documents up to 3 pages can be ready in 24 hours or less",
-              "Maintains quality even with quick turnaround"
-            ]
-          },
-          "confidentiality": {
-            "title": "Confidentiality",
-            "points": [
-              "Confidentiality is paramount",
-              "Documents handled with great discretion",
-              "Strict confidentiality policy",
-              "Willing to sign non-disclosure agreements",
-              "Committed to professional secrecy",
-              "All data treated in absolute confidence",
-              "Information will not be disclosed to third parties"
-            ]
-          },
-          "statistics": {
-            "title": "Our Achievements",
-            "points": [
-              "Network of over 1000 linguists and translators worldwide",
-              "Translate over 500,000 pages in 100 language combinations annually",
-              "Successfully completed a wide range of interpretation assignments"
-            ]
-          }
-        }
-      
+    "quoteProcess": {
+      "title": "Quote Process",
+      "details": [
+        "We review all documents or manuscripts you submit and prepare a binding firm quote stating what we will deliver and the date by which you will receive it.",
+        "The majority of quotes are calculated on word count of the document according to the target language.",
+        "The international measure per one page is 250 words.",
+        "Variables like working with word documents, pictures, photos, diagrams, layout and multiple languages all play a role in cost analysis.",
+        "For IDs and certificates, the quote is calculated on the amount of pages."
+      ]
+    },
+    "pricingPrinciples": {
+      "title": "Pricing Principles",
+      "details": [
+        "Not every language is the same, so the price of translations may vary.",
+        "We keep prices consistent whatever the language for translation.",
+        "The invoice will be for the amount stated in the quote that you approved.",
+        "We aim to provide the highest quality and most competitive rates.",
+        "We require partial payment upfront (50% in advance) and the remaining 50% upon delivery."
+      ]
+    },
+    "additionalServices": {
+      "title": "Additional Services",
+      "details": [
+        "Editing, proofreading, revising, and language consulting are half the price of translation.",
+        "Interpretation rates vary based on service type, location, and industry.",
+        "Interpreters are charged on a half or full-day basis.",
+        "Ongoing interpretation assignments (longer than 7 working days) attract a discount."
+      ]
+    },
+    "generalNotes": {
+      "title": "General Notes",
+      "details": [
+        "Prices are subject to a minimum charge.",
+        "Prices are subject to change without notice.",
+        "Rare languages are priced by mutual agreement.",
+        "Prices do not include VAT.",
+        "We charge a small surcharge for urgent/fast translations."
+      ]
+    },
+    "bookingAndPayment": {
+      "title": "Method of Booking & Payment",
+      "paymentMethods": {
+        "title": "Payment Methods",
+        "methods": [
+          "In person at any ITIB branches/locations",
+          "Banking Cheque",
+          "Direct Bank Deposit",
+          "Bank Transfer",
+          "Postal Remittance",
+          "Wire transfer company (Western Union - Money Gram)",
+          "Orange Cash",
+          "Vodafone Cash"
+        ]
+      },
+      "bookingDetails": [
+        "Booking and payment for on-site and telephone interpretation will be charged per booked time plus any actual overtime services rendered, rounded up to the next increment.",
+        "We need at least 3-5 clear days for interpreter booking.",
+        "For legal entities: An invoice will be sent after completion of services."
+      ],
+      "discounts": {
+        "title": "Discounts",
+        "description": "We reward loyal customers who sign contracts with us with special discounts on all language and translation services. Discounts are offered based on volume."
+      },
+      "operationHours": {
+        "title": "Hours of Operation",
+        "details": [
+          "Open throughout the year except Fridays, national and religious holidays",
+          "Normal hours: 10am to 6pm (extra hours available)",
+          "Hours apply to Egypt time zone"
+        ]
+      },
+      "additionalInformation": [
+        "We offer no-obligation price quotes for translation, interpretation, and language services.",
+        "Don't hesitate to contact us with any questions or inquiries."
+      ],
+      "contact": {
+        "description": "We are easily contacted via phone, fax, email, and personal visits are welcome."
       }
-
-
- 
+    }
+  },
+  "workers": {
+    "title": "Our Workers and Services",
+    "introduction": {
+      "paragraph1": "We are always seeking to differentiate and to make a distinction, therefore Interpretation & Translation International Bureau (ITIB) with a network of over 1000 linguists and translators worldwide available to help at any time, ITIB combines and enhances the knowledge and experience of all its consultants and specialists in order to be able to offer you a complete service portfolio.",
+      "paragraph2": "If you are looking for professionalism, competency, accuracy, experience, commitment, credibility, quality, confidentiality, transparency, speed and distinction to reach the desired level of translation and language consulting services then you have come to the best and right place."
+    },
+    "interpretationServices": {
+      "title": "Interpretation Services",
+      "description": "We provide high quality simultaneous, consecutive and sight Interpretation using a network of highly trained interpreters for various events including:",
+      "eventTypes": [
+        "Conferences",
+        "Conventions",
+        "Meetings",
+        "Seminars",
+        "Exhibitions",
+        "Symposiums",
+        "Sessions",
+        "Forums",
+        "Trials",
+        "Court Hearings",
+        "Tours",
+        "Interviews",
+        "Appointments",
+        "Talk Shows",
+        "Shooting Studios and Locations",
+        "Phone Calls",
+        "Audio and Video Recordings",
+        "Lectures",
+        "Teleconferences",
+        "Investigations",
+        "Visits",
+        "Social Services",
+        "Private, Employee and Official Matters",
+        "On-site Events"
+      ]
+    },
+    "qualityCommitment": {
+      "title": "Our Quality Commitment",
+      "points": [
+        "Client satisfaction has always been central to our philosophy",
+        "We have gained the trust of clients in Egypt and worldwide",
+        "Highly qualified and trusted linguists, translators, and interpreters",
+        "Employs only professional translators and interpreters",
+        "Uses the latest technology",
+        "Provides error-free translations",
+        "Creates and manages project-specific glossaries and style guides",
+        "Emphasizes accurate language use and high-quality terminology"
+      ]
+    },
+    "translationCharacteristics": {
+      "title": "Translation Characteristics",
+      "points": [
+        "Well-written translations that do not read like translations",
+        "Delivered in the required format",
+        "Delivered on time",
+        "Fast/urgent service available",
+        "Documents up to 3 pages can be ready in 24 hours or less",
+        "Maintains quality even with quick turnaround"
+      ]
+    },
+    "confidentiality": {
+      "title": "Confidentiality",
+      "points": [
+        "Confidentiality is paramount",
+        "Documents handled with great discretion",
+        "Strict confidentiality policy",
+        "Willing to sign non-disclosure agreements",
+        "Committed to professional secrecy",
+        "All data treated in absolute confidence",
+        "Information will not be disclosed to third parties"
+      ]
+    },
+    "statistics": {
+      "title": "Our Achievements",
+      "points": [
+        "Network of over 1000 linguists and translators worldwide",
+        "Translate over 500,000 pages in 100 language combinations annually",
+        "Successfully completed a wide range of interpretation assignments"
+      ]
+    }
+  },
+  "careerAndExperience": {
+    "title": "Career & Experience",
+    "description": "Translator/Interpreter/ Linguist Mohamed Abdelkawey is the founder, owner and manager of Interpretation & Translation International Bureau (ITIB); accredited, certified, recognized and acknowledged agency by Embassies, Consulates, Egyptian and Foreign Bodies and Governmental Authorities, performing professional language and translation works for individuals and government and non-government agencies in Egypt and Worldwide.",
+    "details": [
+      "Former Consultant Translator/Interpreter and Head of Translation Department and former International Relations Specialist at Egyptian Media Production City Company (EMPC).",
+      "He has a long track record in translation and interpretation as a freelancer and experience in managing large translation projects for local and international agencies and companies.",
+      "He holds the position of (Accredited - Certified - Sworn) Translator/Interpreter.",
+      "He knows what the client needs so he fulfills such needs spontaneously."
+    ]
+  },
+  "visionMissionValues": {
+    "title": "Vision, Mission & Values",
+    "vision": {
+      "title": "Vision",
+      "text": "Providing a full range of first-class language and translation services to be a global leader and innovative translation and interpretation agency in the whole world."
+    },
+    "mission": {
+      "title": "Mission",
+      "text": "ITIB is dedicated to handling clients' needs with the utmost professionalism, honesty and integrity in translation and language consulting. ITIB aim is to offer clients a better cost benefit relationship every time and better personal attention in order to establish a more productive alliance and long-term relationship with its clientele."
+    },
+    "values": {
+      "title": "Values",
+      "text": "Values are Paramount at ITIB. We have a world-wide reputation of reliability, honesty, efficiency, excellence, commitment, accuracy, quality, obligation, professionalism and confidentiality."
+    }
+  },
+  "codeOfEthics": {
+    "title": "Code of Ethics and Conduct",
+    "description": "All our translators and interpreter are bound by the ITIB code of ethics and conduct. ITIB has some sort of code of ethics and conduct that its staff are supposed to follow. A code of ethics and conduct is important because it clearly lays out the rules and regulations for behavior and provides a Preemptive warning.",
+    "points": [
+      "Office staff and clients shall be committed to the rules and regulations of ITIB by laws.",
+      "ITIB as an accredited and certified translation of agency and it shall practice and provide all kind of translation and language consulting on the local and international levels and that's include all known translation specializations according to hereinafter codes:",
+      "All translated pages shall be attested with own recognized seal and signature.",
+      "Translators and Interpreters under take appropriate preparations for all assignments.",
+      "Translators and Interpreters complete assignments they have accepted, unless they are unable to do so for ethical reasons.",
+      "ITIB adhere to appointment times and deadlines, or advise client promptly of any hindrance.",
+      "The acceptance of a translation or interpretation assignment is an implicit declaration of a translator's or interpreter's competence to carry out that assignment.",
+      "ITIB Staff is not responsible for what clients Say as write.",
+      "Professional detachment is required for translation and interpretation assignments in all situations.",
+      "Where impartiality may be difficult to maintain because of personal beliefs or other circumstances, translators and interpreters do not accept assignments or they offer to withdraw from the assignment.",
+      "Translators and Interpreters do not alter, add to, or omit anything from the content or intent of the source message.",
+      "Translators and Interpreters acknowledge, admit and promptly rectify any translation and interpretation mistakes.",
+      "ITIB resolves any disputes with clients in a cooperative, constructive, good and professional manner.",
+      "ITIB word accounting based on the target document not the source one.",
+      "The basis of accounting is 250 words per page for written translation, but oral translation based on number of hours.",
+      "ITIB protects the confidentiality of all professionally acquired information, disclosing such information only when properly authorized or legally professionally obligated to do so.",
+      "The confidential nature of our relationship with clients is also respected.",
+      "We refuse to divulge any confidential information to any person without the knowledge and prior consent of the client.",
+      "Our staff is contractually bound to treat any work assigned by ITIB during and after its performance as confidential.",
+      "Breaking and breaching the code of ethics and conduct can result in termination or dismissal from ITIB."
+    ]
+  },
+  "reputation": {
+    "title": "Reputation",
+    "description": "Mohamed Abdelkawey Interpretation & Translation International Bureau is a world-wide reputable language and translation agency based in Egypt. ITIB's Translation is accredited, certified, recognized, acknowledged, approved, authenticated, authorized, attested, documented, ratified, sanctioned, notarized and legalized by embassies, consulates, public and private authorities and Egyptian and foreign bodies.",
+    "details": [
+      "Since our establishing, we have been at the forefront of the translation field due to our uncompromising focus on four key elements: language and translation standards, reasonable prices, time efficiency and client satisfaction.",
+      "We have previous experience and professionalism in specialized translation of many works and we have many undertaken the translation to and from most languages of many projects.",
+      "Every project is treated with the utmost respect and the exceptional levels of service which our clients have come to rely on.",
+      "Each translation project is always supervised by a project manager who is responsible for carrying out the project in accordance with ITIB procedures, regulations and rules.",
+      "We believe that project management is one of the main cornerstones of an efficient work flow.",
+      "We translate all forms and specialities of translation and interpretation.",
+      "The policy of our bureau is to employ highly qualified professional translators, Interpreters, editors and proofreaders.",
+      "Our translations are not limited to translate from and to Arabic language but we also translate from and to all other major international languages.",
+      "We offer Professional translation services for most languages combinations or pairs and specialist fields.",
+      "Our translations are carried out by well-reputed and experienced professional translators, editors and proofreaders.",
+      "Our professional staff working hand in hand to provide the clients with top quality services and helping them to reach full satisfaction from the performed translation work at a highest level of professionalism, accuracy and success.",
+      "We treat all received documents with a full confidentiality and our client's information is never released to the third parties, we safeguard each client's work confidential.",
+      "ITIB is officially registered in register office and notary public office.",
+      "Moreover, ITIB has been approved and acknowledged on both national and international base, by embassies, consulates, all governmental departments and administrations public and private sectors companies foreign and local organizations, Institutions, unions and associations public and private agencies, offices, foundations and bureaus, courts, hospitals, dispensary, clinics, universities, academics, schools, hotels, resorts, sporting clubs, TV and radio stations, cinema and theatre complex, museums, event organisers and police stations.",
+      "Transparency and understanding is the key to success in any business, and we are committed to unlocking every door for our clients, by offering skilful translation and interpretation services in a wide selection of most languages.",
+      "ITIB provides a wide range of services and can tailor solutions to suit your need; you can trust our multidisciplinary staff to fulfill your specific requirements.",
+      "ITIB offers solutions for small, medium and large sized enterprises."
+    ]
+  },
+  "labour": {
+    "title": "Labour",
+    "description": "The number of the employees at Mohamed Abdelkawey Interpretation and Translation International Bureau (ITIB) are 300 persons including freelance and employee translators and interpreters, in addition to customer services and secretarial employees and couriers.",
+    "details": [
+      "All these employees possess certain qualities, and are distinguished by experience, high efficiency, transparency, fidelity, professionalism, solid back ground in their fields, sincerity in work, and above all this; necessary services and Patience for the client, we always appreciate the clients' notes.",
+      "Our services are provided by a group of highly skilled experienced Professionals we place great emphasis on getting the right and appropriate person for the task.",
+      "The ITIB management staff brings diverse experience in languages and translation and desire for excellence to the office.",
+      "We believe in excellence in our performance.",
+      "We sanctify our work and respect our principles which are accuracy, competency, commitment, effort, honesty and success, so that we got your respect and satisfaction.",
+      "ITIB is committed to diversity in a working environment where there is mutual trust and respect and where everyone feels responsible for the performance and reputation of our agency.",
+      "We respect the dignity of the individual and the right of employees we do not use any form of forced, compulsory or child labour.",
+      "ITIB and employees are required to comply with the laws and terms of the countries in which we operate.",
+      "Our production runs 24/7 and across all continents, and with our production platform, we can ensure that there will be no interruptions in communication and workflow.",
+      "You'll be impressed with the way in which we handle your project from start to finish.",
+      "Our well trained and friendly staff is waiting to answer any questions you may have about our services and to provide you with a free quotation for your requirements.",
+      "Call us or come in person for free consultation."
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "description": "We offer solutions fully tailored to your specific language need. We are open six days a week around the clock to serve you. With a vast acumen and knowledge of various foreign languages you can be sure about the quality of our services. We have highly qualified translators, interpreters, editors and proofreaders in diverse subject areas. Today, our language and translation services keep pace with the speed of your enterprise.",
+    "list": [
+      "Translation",
+      "Interpretation",
+      "Subtitling",
+      "Language Consulting",
+      "Editing",
+      "Proof reading",
+      "Localization",
+      "Transcription",
+      "Desktop Publishing",
+      "Voice-over",
+      "Dubbing",
+      "Transliteration",
+      "Copy writing",
+      "Authorship",
+      "Multimedia",
+      "Graphic",
+      "Events organizing",
+      "Broadcasting systems"
+    ]
+  },
+  "translationExpertise": {
+    "title": "Translation Expertise and Specialities",
+    "description": "ITIB is proud to provide accredited & certified language& translation services through the elite staff of professional consultants translators, interpreters, editors and proofreaders in various fields of multi translations. We make sure that our services comply with strictest quality standards. Our competent, reliable and friendly staff can cope with any translation task. We devote a specific translation team managed by a dedicated project manager to ensure consistency and quality throughout the whole assignment, our highly trained and experienced translation staff can handle all subject matters. Our experience covers a wealth of translation specialities. Our language and translation services are tailor-made to every individual need. All translations are carried out professionally with excellent & fast turnaround times. Our qualified consultants work hard to give you the tram station you need now and in the future. We provide a stamped & signed copy of all translated papers.",
+    "specialities": [
+      "Personal Translation (Standard Documents & Certificates)",
+      "Legal Translation",
+      "Medical Translation",
+      "Engineering / Technical Translation",
+      "Scientific Translation",
+      "Literary Translation",
+      "Media Translation",
+      "Tourism, Travel and Hospitality Translation",
+      "Economic & Financial Translation",
+      "Business & Commercial Translation",
+      "Diplomatic and Political Translation",
+      "Sports Translations",
+      "Religious Translation"
+    ]
+  },
+  "turnaroundTime": {
+    "title": "Turnaround Time",
+    "description": "How long does it take to get a document translated? When calculating turnaround times for translation work the following factors are taken into consideration:",
+    "factors": [
+      "Volume; Number of words or pages.",
+      "Languages: Number of source and target languages involved.",
+      "Complexity of the Contents.",
+      "Formatting.",
+      "Current workload.",
+      "Time frame: Standard or Express to complete the job.",
+      "We will review your request and email you or call you by phone."
+    ],
+    "notes": [
+      "We deliver your translated documents within days at an unbeatable price.",
+      "Keep the following in mind when preparing and Submitting your text for translation Purposes:",
+      "Translation Services are provided on a first – come, first-served basis, please plan ahead.",
+      "Make sure the document is final and approved text before submitting it for translation.",
+      "Use clear, Succinct writing, Avoid ambiguity.",
+      "Minimize the use of abbreviations, define acronyms and transliteration.",
+      "If the document will be printed on a letter head or will contain images, please send these along with the file to be translated.",
+      "Fees are subject to change without notice and language and translation services fees are non-refundable."
+    ]
+  },
+  "ratesAndPrices": {
+    "title": "Rates and Prices",
+    "description": "In Spite of our experience, efficiency and Professionalism in Language and translation business and the group of highly qualified experienced Professionals at 'Mohamed Abdelkawey Interpretation and Translation International Bureau', Our prices are reasonable and suitable for our clients and for our Bureau as a reputable, accredited and certified agency of languages and translation by Comparison with the other Bureaus, offices, firms, companies, centers and agencies of languages and translation.",
+    "details": [
+      "Our rates are low and affordable to all, such that right from Individuals to large Companies and Agencies can hire our professional services within their expected budget range.",
+      "We offer strong customer support, a friendly service and efficient turnaround all built into our language & translation price.",
+      "Looking at the market and what our competitors do, we have concluded that even though they produce a high quality translation but it is either: not cost effective and time consuming process and cycle.",
+      "We want to provide our clients with fair and competitive price; we have set our own rules and regulations to obtain the highest quality, meeting the tightest and stringent deadlines and maintain a relatively low cost of our services. Thus we provide cost effective languages and translation services.",
+      "We offer three types of translation rates:",
+      "1- Written translation.",
+      "2- Oral translation.",
+      "3- Screen translation."
+    ],
+    "writtenTranslation": {
+      "title": "Rates of Written Translation",
+      "description": "Our rates of translation shall be calculated according to the target language (the language translated to it) not from the source language (the language translated from it): it means the number of the pages and words that have been translated through us, not the number of the pages and words that have been delivered from the client to be translated.",
+      "details": [
+        "Our charges are calculated based on the word count.",
+        "Assuming that the number of the words per page shouldn't exceed 250 words.",
+        "The basis of accounting is 250 words per page or each single paper.",
+        "If the page words are less than 250 words, the page will be translated for the same price of 250 words as minimum average one page, subject to price variance and fluctuation from a language to another, or language pairing.",
+        "Personal Documents and Certificates will be charged on the basis of full page regardless of word count.",
+        "Notarization, Legalization, Authentication and Affidavit of Documents by The Notary Public, Register offices, Consulates, Embassies and Ministries will cost extra fees.",
+        "We charge a small surcharge for urgent translations."
+      ]
+    },
+    "oralTranslation": {
+      "title": "Rates of Oral Translation (Interpretation)",
+      "description": "The Interpretation service rates are depending on length of time and language combination.",
+      "details": [
+        "On-Site interpretation services are normally based on hourly rates, or number of hours, with a minimum charge of eight (8) Working hours per day. Additional service above the original contracted time period on the same day will be based on half-hour increments.",
+        "Over-the Phone interpretation services are normally based on minutely rates, or number of minutes depending on the language pair, with a minimum charge of thirty minutes for the phone call interpretation."
+      ]
+    },
+    "screenTranslation": {
+      "title": "Rates of Screen Translation (Subtitling)",
+      "description": "Subtitling service rates are depending on the time length of the video and the language of the audio for the shown single minute on screen.",
+      "details": [
+        "The cost for subtitling or screen translation is always calculated by number of minutes.",
+        "Subtitling services rates are depending on the source language and the target language."
+      ]
+    },
+    "editingProofreadingRevising": {
+      "title": "Rates of Editing & Proofreading & Revising",
+      "description": "Rates of language editing, proofreading and revision are half price of translation, and shall be calculated according to its editing, proofreading and revision as minimum average 250 words per page, subject to price variance and fluctuations from a language to another.",
+      "details": [
+        "The time required for the revision depends on the length of the text.",
+        "Please allow at least a week for a text of approximately 100 pages.",
+        "The cost to edit, proofread and revise is 50% less than fully translating the text."
+      ]
+    }
+  }
+}
