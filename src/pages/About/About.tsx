@@ -72,7 +72,7 @@ const About = () => {
   return (
     <Container>
       <Section>
-        <Title>{getTranslationString('about.title', 'About Us')}</Title>
+        <Title>{getTranslationString('about2.title', 'About Us')}</Title>
         <Paragraph>{getTranslationString('about.intro.description', 'Introduction description not available')}</Paragraph>
       </Section>
 

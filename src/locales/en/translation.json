@@ -25,9 +25,9 @@
     "text": "ITIB is dedicated to handling clients' needs with the utmost professionalism, honesty, and integrity in translation and language consulting. ITIB aims to offer clients a better cost-benefit relationship every time and better personal attention in order to establish a more productive alliance and long-term relationship with its clientele.",
     "button": "Get Started"
   },
-  "about": {
+  "about2": {
     "title": "Our Commitment",
-    "text": "ITIB provides all types of translation with excellent high-quality services at competitive prices to bridge the communication gap between civilizations, culture, and overcome language barriers.",
+    "description": "ITIB provides all types of translation with excellent high-quality services at competitive prices to bridge the communication gap between civilizations, culture, and overcome language barriers.",
     "section": ["Vision", "Mission", "Values"]
   },
   "mission": {
@@ -67,7 +67,7 @@
       "Swedish"
     ]
   },
-  "aboutDetails": {
+  "about": {
     "title": "Interpretation & Translation International Bureau (ITIB)",
     "intro": {
       "description": "The International Bureau for Interpretation and Translation (ITIB) - led by Mohamed Abdelkawey - is honored and pleased to serve you by providing various types of translations and linguistic consultations. Not only do we translate to and from Arabic, but also to and from most foreign languages, all performed by a select group of skilled and professional language and translation consultants and experts."
