@@ -1,9 +1,10 @@
-import { Row, Col } from "antd";
+import { Row, Col, Button } from "antd";
 import { withTranslation, TFunction } from "react-i18next";
 import { SvgIcon } from "../../common/SvgIcon";
 import Container from "../../common/Container";
 import i18n from "i18next";
 import styled from 'styled-components';
+import { DownloadOutlined } from "@ant-design/icons"; // Import download icon
 import {
   FooterSection,
   NavLink,
@@ -75,6 +76,23 @@ const Footer = ({ t }: { t: TFunction }) => {
               <Para>Tel / Fax: (+202) 27369037</Para>
               <Para>Mobile: (+2) 01020302444 – (+2) 01094340142 –(+2) 01558125060</Para>
             </Col>
+            <Col lg={6} md={6} sm={12} xs={12}>
+  <Button 
+    type="primary" 
+    icon={<DownloadOutlined />} 
+    onClick={() => {
+      // Create a temporary link to trigger download
+      const link = document.createElement('a');
+      link.href = '/policy.docx'; // Make sure this path is correct
+      link.download = 'policy.docx';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }}
+  >
+    {t("Download Policy")}
+  </Button>
+</Col>
             <Col lg={6} md={6} sm={12} xs={12}>
               <Label htmlFor="select-lang">{t("Language")}</Label>
               <LanguageSwitchContainer>
