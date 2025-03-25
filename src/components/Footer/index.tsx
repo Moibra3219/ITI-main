@@ -90,7 +90,7 @@ const Footer = ({ t }: { t: TFunction }) => {
       document.body.removeChild(link);
     }}
   >
-    {t("Download Policy")}
+    {t("Our Portfolio")}
   </Button>
 </Col>
             <Col lg={6} md={6} sm={12} xs={12}>

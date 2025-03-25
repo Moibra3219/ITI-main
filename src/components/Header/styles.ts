@@ -2,25 +2,38 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 import { MenuOutlined } from "@ant-design/icons";
 
-export const HeaderSection = styled("header")`
+// Color palette for consistent theming
+const COLORS = {
+  primary: '#18216d',
+  secondary: '#2e186a',
+  accent: 'rgb(255, 130, 92)',
+  text: '#404041',
+};
+
+export const HeaderSection = styled.header`
   padding: 1rem 0.5rem;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 
   .ant-row-space-between {
+    display: flex;
     align-items: center;
-    text-align: center;
+    justify-content: space-between;
   }
 `;
 
 export const LogoContainer = styled(Link)`
   display: flex;
+  align-items: center;
+  text-decoration: none;
 `;
 
-export const NavLink = styled("div")`
+export const NavLink = styled.div`
   display: inline-block;
   text-align: center;
 `;
 
-export const CustomNavLink = styled("div")`
+export const CustomNavLink = styled.div`
   width: 203px;
   display: inline-block;
 
@@ -33,7 +46,7 @@ export const CustomNavLink = styled("div")`
   }
 `;
 
-export const Burger = styled("div")`
+export const Burger = styled.div`
   @media only screen and (max-width: 890px) {
     display: block;
   }
@@ -41,17 +54,18 @@ export const Burger = styled("div")`
   display: none;
 
   svg {
-    fill: #2e186a;
+    fill: ${COLORS.secondary};
+    font-size: 22px;
   }
 `;
 
-export const NotHidden = styled("div")`
+export const NotHidden = styled.div`
   @media only screen and (max-width: 890px) {
     display: none;
   }
 `;
 
-export const Menu = styled("h5")`
+export const Menu = styled.h5`
   font-size: 1.5rem;
   font-weight: 600;
   text-align: center;
@@ -59,7 +73,7 @@ export const Menu = styled("h5")`
 
 export const CustomNavLinkSmall = styled(NavLink)`
   font-size: 1.2rem;
-  color: #18216d;
+  color: ${COLORS.primary};
   transition: color 0.2s ease-in;
   margin: 0.5rem 2rem;
 
@@ -68,9 +82,9 @@ export const CustomNavLinkSmall = styled(NavLink)`
   }
 `;
 
-export const Label = styled("span")`
+export const Label = styled.span`
   font-weight: 500;
-  color: #404041;
+  color: ${COLORS.text};
   text-align: right;
   display: flex;
   justify-content: space-between;
@@ -81,44 +95,41 @@ export const Outline = styled(MenuOutlined)`
   font-size: 22px;
 `;
 
-export const Span = styled("span")`
+export const Span = styled.span`
   cursor: pointer;
   transition: all 0.3s ease-in-out;
 
   &:hover,
   &:active,
   &:focus {
-    color: rgb(255, 130, 92);
+    color: ${COLORS.accent};
     text-underline-position: under;
-    text-decoration: rgb(255, 130, 92) wavy underline;
+    text-decoration: ${COLORS.accent} wavy underline;
   }
 `;
-export const Language = styled("h4")`
+
+export const Language = styled.h4`
   font-size: 22px;
   text-transform: capitalize;
-  color: #18216d;
+  color: ${COLORS.primary};
 
   @media screen and (max-width: 414px) {
     padding: 1.5rem 0;
   }
 `;
 
-
-
-export const LanguageSwitch = styled("div")`
+export const LanguageSwitch = styled.div`
   cursor: pointer;
   transition: all 0.1s ease-in-out;
 
   &:hover,
   &:active,
   &:focus {
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
     transform: scale(1.1);
   }
 `;
 
-export const LanguageSwitchContainer = styled("div")`
+export const LanguageSwitchContainer = styled.div`
   display: flex;
   justify-content: space-between;
   width: 85px;

@@ -1,11 +1,12 @@
 import { useState, useCallback } from "react";
-import { Row, Col, Drawer } from "antd";
+import { Row, Col, Drawer, Button } from "antd";
+import { DownloadOutlined } from "@ant-design/icons"; // Add this import
 import { withTranslation, TFunction, useTranslation } from "react-i18next";
 import styled from "styled-components";
-import { Link } from "react-router-dom"; // Import Link from react-router-dom
+import { Link } from "react-router-dom";
 import Container from "../../common/Container";
 import { SvgIcon } from "../../common/SvgIcon";
-import { Button } from "../../common/Button";
+import { Button as CustomButton } from "../../common/Button"; // Keep the custom Button import
 import {
   HeaderSection,
   LogoContainer,
@@ -29,6 +30,12 @@ const NavContainer = styled.div`
   align-items: center;
   justify-content: space-between;
   width: 100%;
+`;
+
+const LogoNavWrapper = styled.div`
+  display: flex;
+  align-items: center;
+  gap: 2rem;
 `;
 
 const MenuContainer = styled.div`
@@ -66,18 +73,20 @@ const Header = ({ t }: HeaderProps) => {
     <HeaderSection>
       <Container>
         <Row justify="space-between" align="middle">
-          <LogoContainer to="/" aria-label="homepage">
-            <SvgIcon src="logo.ico" width="101px" height="84px" />
-          </LogoContainer>
           <NotHidden>
             <NavContainer>
-              <MenuContainer>
-                <MenuItem 
-                  t={t} 
-                  languages={languages}
-                  handleLanguageChange={handleLanguageChange}
-                />
-              </MenuContainer>
+              <LogoNavWrapper>
+                <LogoContainer to="/" aria-label="homepage">
+                  <SvgIcon src="logo.ico" width="101px" height="84px" />
+                </LogoContainer>
+                <MenuContainer>
+                  <MenuItem 
+                    t={t} 
+                    languages={languages}
+                    handleLanguageChange={handleLanguageChange}
+                  />
+                </MenuContainer>
+              </LogoNavWrapper>
             </NavContainer>
           </NotHidden>
           <Burger onClick={toggleDrawer} aria-label="Toggle menu">
@@ -120,6 +129,9 @@ interface MenuItemProps {
 
 const MenuItem = ({ t, languages, handleLanguageChange }: MenuItemProps) => (
   <>
+    <CustomNavLinkSmall as={Link} to="/">
+      <Span>{t("Home")}</Span>
+    </CustomNavLinkSmall>
     <CustomNavLinkSmall as={Link} to="/about">
       <Span>{t("About")}</Span>
     </CustomNavLinkSmall>
@@ -131,8 +143,25 @@ const MenuItem = ({ t, languages, handleLanguageChange }: MenuItemProps) => (
     </CustomNavLinkSmall>
     <CustomNavLinkSmall as={Link} to="/contact" style={{ width: "180px" }}>
       <Span>
-        <Button>{t("Contact")}</Button>
+        <CustomButton>{t("Contact")}</CustomButton>
       </Span>
+    </CustomNavLinkSmall>
+    <CustomNavLinkSmall>
+      <Button 
+        type="primary" 
+        icon={<DownloadOutlined />} 
+        onClick={() => {
+          // Create a temporary link to trigger download
+          const link = document.createElement('a');
+          link.href = '/policy.docx'; // Make sure this path is correct
+          link.download = 'policy.docx';
+          document.body.appendChild(link);
+          link.click();
+          document.body.removeChild(link);
+        }}
+      >
+        {t("Our Portfolio")}
+      </Button>
     </CustomNavLinkSmall>
     <Span>
       <LanguageSwitchContainer>
