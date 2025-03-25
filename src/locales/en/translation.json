@@ -204,11 +204,21 @@
     "quoteProcess": {
       "title": "Quote Process",
       "details": [
-        "We review all documents or manuscripts you submit and prepare a binding firm quote stating what we will deliver and the date by which you will receive it.",
-        "The majority of quotes are calculated on word count of the document according to the target language.",
-        "The international measure per one page is 250 words.",
-        "Variables like working with word documents, pictures, photos, diagrams, layout and multiple languages all play a role in cost analysis.",
-        "For IDs and certificates, the quote is calculated on the amount of pages."
+        "Dear Valuable Client,\nKindly find rules and regulations for language & translation services price shown below:\n",
+      "- Our rates of translation shall be calculated according to the target language (the language translated into it) not from the source language (the language translated from it); it means the number of the pages that have been translated through (Mohamed Abdelkawey Interpretation & Translation International Bureau), not the number of the pages that have been delivered to be translated from the client.",
+      "- Our charges are calculated based on the word count.",
+      "- Assuming that the number of the page words or the written single paper shouldn't exceed 250 words per page.",
+      "- The basis of accounting is 250 words per page or each single paper.",
+      "- If the page words are less than 250 words, the page will be translated for the same price of 250 words as minimum average one page, subject to price variance and fluctuation from a language to another or language pairing.",
+      "- Personal Documents and Certificates will be charged on the basis of full page regardless of word count.",
+      "- Rates of editing, proofreading, revising and language consulting are half price of translation.",
+      "- Notarization, Legalization, Authentication and Affidavit of Documents by The Notary Public, Register Offices, Consulates, Embassies and Ministries will cost extra fees.",
+      "- We charge a small surcharge for urgent translations.",
+      "- Our pricing system is straight forward and inline with the business standard, the cost of any translation is always calculated by the numbers of words of the text.",
+      "- Invoicing & Payment Term: 50% payment at time of receipt and 50% at time of delivery.",
+      "- Lump-sum fees: Our fees that are based on an agreed amount will be estimated for each task. The 50% of our fees shall be paid in advance and the second half shall be paid upon the completion of the assignment.",
+      "- Delivery time:\n  For small and medium language and translation orders our standard/normal delivery time is approximately between 2-10 business days after receipt of written order confirmation and payment.\n  For large language and translation orders, deliveries are made according to an agreed schedule which may include partial deliveries after receipt of written order confirmation and payment.\n  For express/rush language translation orders, if necessary we can deliver language and translation service at very short notice after receipt of written order confirmation and payment. Express means that the language and translation service has a delivery time of 1-3 business days, depending on the difficulty of the text, the language combination and the text format. We also offer lay out and print production with express delivery.",
+      "\nBest Regards,\nYours Sincerely,\nMohamed Abdelkawey\nLinguist/Translator/Interpreter"
       ]
     },
     "pricingPrinciples": {

@@ -83,7 +83,7 @@ const Footer = ({ t }: { t: TFunction }) => {
     onClick={() => {
       // Create a temporary link to trigger download
       const link = document.createElement('a');
-      link.href = '/policy.docx'; // Make sure this path is correct
+      link.href = '/policy.docx'; 
       link.download = 'policy.docx';
       document.body.appendChild(link);
       link.click();
