@@ -1,12 +1,12 @@
 import { useState, useCallback } from "react";
 import { Row, Col, Drawer, Button } from "antd";
-import { DownloadOutlined } from "@ant-design/icons"; // Add this import
+import { DownloadOutlined } from "@ant-design/icons";
 import { withTranslation, TFunction, useTranslation } from "react-i18next";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 import Container from "../../common/Container";
 import { SvgIcon } from "../../common/SvgIcon";
-import { Button as CustomButton } from "../../common/Button"; // Keep the custom Button import
+import { Button as CustomButton } from "../../common/Button";
 import {
   HeaderSection,
   LogoContainer,
@@ -50,6 +50,31 @@ const LanguageWrapper = styled.div`
   padding: 10px 0;
 `;
 
+const ResponsiveLogo = styled(LogoContainer)`
+  display: flex;
+  align-items: center;
+  
+  @media (max-width: 768px) {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10px;
+    z-index: 1000;
+  }
+`;
+
+const MobileHeaderWrapper = styled.div`
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  
+  @media (max-width: 768px) {
+    padding: 10px 0;
+  }
+`;
+
 const Header = ({ t }: HeaderProps) => {
   const [isDrawerVisible, setDrawerVisibility] = useState(false);
   const { i18n } = useTranslation();
@@ -72,33 +97,39 @@ const Header = ({ t }: HeaderProps) => {
   return (
     <HeaderSection>
       <Container>
-        <Row justify="space-between" align="middle">
-          <NotHidden>
-            <NavContainer>
-              <LogoNavWrapper>
-                <LogoContainer to="/" aria-label="homepage">
-                  <SvgIcon src="logo.ico" width="101px" height="84px" />
-                </LogoContainer>
-                <MenuContainer>
-                  <MenuItem 
-                    t={t} 
-                    languages={languages}
-                    handleLanguageChange={handleLanguageChange}
-                  />
-                </MenuContainer>
-              </LogoNavWrapper>
-            </NavContainer>
-          </NotHidden>
+        <MobileHeaderWrapper>
+          {/* Logo visible in both desktop and mobile views */}
+          <ResponsiveLogo to="/" aria-label="homepage">
+            <SvgIcon src="logo.ico" width="101px" height="84px" />
+          </ResponsiveLogo>
+
+          {/* Burger menu for mobile */}
           <Burger onClick={toggleDrawer} aria-label="Toggle menu">
             <Outline />
           </Burger>
-        </Row>
+        </MobileHeaderWrapper>
+
+        <NotHidden>
+          <NavContainer>
+            <LogoNavWrapper>
+              <MenuContainer>
+                <MenuItem 
+                  t={t} 
+                  languages={languages}
+                  handleLanguageChange={handleLanguageChange}
+                />
+              </MenuContainer>
+            </LogoNavWrapper>
+          </NavContainer>
+        </NotHidden>
+
         <Drawer
           closable={false}
           open={isDrawerVisible}
           onClose={toggleDrawer}
           placement="right"
           aria-label="Navigation menu"
+          bodyStyle={{ padding: '20px' }}
         >
           <Col style={{ marginBottom: "2.5rem" }}>
             <Label onClick={toggleDrawer}>
