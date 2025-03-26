@@ -15,6 +15,14 @@
   "Support Center": "Centre de support",
   "Customer Support": "Support client",
   "Address": "Adresse",
+  "Maadi Address Label": "Adresse de Maadi",
+  "Maadi Address Details": "61, Route 206, Degla, Maadi, Le Caire, Égypte",
+  "Tel/Fax Label": "Tél / Fax",
+  "Mobile Label": "Mobile",
+  "Zamalek Address Label": "Adresse de Zamalek",
+  "Zamalek Address Details": "3, Rue Dr. Taha Hussien, Centre Yamama, Zamalek, Le Caire, Égypte",
+  "Maadi Mobiles": "(+2) 01067000881 – (+2) 01113980003 – (+2) 01283000573",
+  "Zamalek Mobiles": "(+2) 01020302444 – (+2) 01094340142 –(+2) 01558125060",
   "Press": "Presse",
   "Careers & Culture": "Carrières & Culture",
   "Language": "Langue",
@@ -28,6 +36,7 @@
   "Your Name": "Votre nom",
   "Email": "Email",
   "Your Email": "Votre email",
+   
   "intro": {
     "title": "Bureau International d'Interprétation et de Traduction (ITIB)",
     "text": "En soulignant le slogan 'Touchez votre mot pour le ressentir' comme devise, le Bureau International d'Interprétation et de Traduction (ITIB) et son personnel hautement qualifié de linguistes, traducteurs et interprètes avec une longue expérience en traduction et en conseil linguistique.",
