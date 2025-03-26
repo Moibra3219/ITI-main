@@ -30,49 +30,37 @@ const NavContainer = styled.div`
   align-items: center;
   justify-content: space-between;
   width: 100%;
+  padding: 0 1rem; // Optional: Add padding for spacing
 `;
 
 const LogoNavWrapper = styled.div`
   display: flex;
   align-items: center;
   gap: 2rem;
+  width: 100%;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 `;
 
 const MenuContainer = styled.div`
   display: flex;
   align-items: center;
   gap: 20px;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+  }
 `;
 
 const LanguageWrapper = styled.div`
   display: flex;
   gap: 10px;
   padding: 10px 0;
-`;
-
-const ResponsiveLogo = styled(LogoContainer)`
-  display: flex;
-  align-items: center;
-  
-  @media (max-width: 768px) {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    top: 10px;
-    z-index: 1000;
-  }
-`;
-
-const MobileHeaderWrapper = styled.div`
-  position: relative;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  
-  @media (max-width: 768px) {
-    padding: 10px 0;
-  }
 `;
 
 const Header = ({ t }: HeaderProps) => {
@@ -97,21 +85,12 @@ const Header = ({ t }: HeaderProps) => {
   return (
     <HeaderSection>
       <Container>
-        <MobileHeaderWrapper>
-          {/* Logo visible in both desktop and mobile views */}
-          <ResponsiveLogo to="/" aria-label="homepage">
-            <SvgIcon src="logo.ico" width="101px" height="84px" />
-          </ResponsiveLogo>
-
-          {/* Burger menu for mobile */}
-          <Burger onClick={toggleDrawer} aria-label="Toggle menu">
-            <Outline />
-          </Burger>
-        </MobileHeaderWrapper>
-
-        <NotHidden>
-          <NavContainer>
-            <LogoNavWrapper>
+        <NavContainer>
+          <LogoNavWrapper>
+            <LogoContainer to="/" aria-label="homepage">
+              <SvgIcon src="logo.ico" width="101px" height="84px" />
+            </LogoContainer>
+            <NotHidden>
               <MenuContainer>
                 <MenuItem 
                   t={t} 
@@ -119,9 +98,12 @@ const Header = ({ t }: HeaderProps) => {
                   handleLanguageChange={handleLanguageChange}
                 />
               </MenuContainer>
-            </LogoNavWrapper>
-          </NavContainer>
-        </NotHidden>
+            </NotHidden>
+          </LogoNavWrapper>
+          <Burger onClick={toggleDrawer} aria-label="Toggle menu">
+            <Outline />
+          </Burger>
+        </NavContainer>
 
         <Drawer
           closable={false}
