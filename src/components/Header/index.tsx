@@ -21,6 +21,7 @@ import {
   LanguageSwitchContainer,
 } from "./styles";
 
+
 interface HeaderProps {
   t: TFunction;
 }
@@ -160,21 +161,18 @@ const MenuItem = ({ t, languages, handleLanguageChange }: MenuItemProps) => (
       </Span>
     </CustomNavLinkSmall>
     <CustomNavLinkSmall>
-      <Button 
-        type="primary" 
-        icon={<DownloadOutlined />} 
-        onClick={() => {
-          // Create a temporary link to trigger download
-          const link = document.createElement('a');
-          link.href = '/policy.docx'; // Make sure this path is correct
-          link.download = 'policy.docx';
-          document.body.appendChild(link);
-          link.click();
-          document.body.removeChild(link);
-        }}
-      >
-        {t("Our Portfolio")}
-      </Button>
+    <Button 
+  type="primary" 
+  icon={<DownloadOutlined />} 
+  onClick={() => {
+    window.open(
+      'https://drive.google.com/file/d/1ucqi_yC2LUQ_7Gbp8bdG32_3IdHYdd0x/view?usp=sharing',
+      '_blank'
+    );
+  }}
+>
+  {t("Our Portfolio")}
+</Button>
     </CustomNavLinkSmall>
     <Span>
       <LanguageSwitchContainer>
